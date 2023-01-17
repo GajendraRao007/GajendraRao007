@@ -2,7 +2,7 @@
 
 ![MY Github Banner](https://user-images.githubusercontent.com/105481951/212617461-abe52764-ef23-4838-acaf-388d76756244.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendrarao007&label=Profile%20views&color=ffd700&style=flat" alt="gajendrarao007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendrarao007&label=Profile%20views&color=FF0000&style=flat" alt="gajendrarao007" /> </p>
 
 - 🌱 I’m currently learning **React**
 
