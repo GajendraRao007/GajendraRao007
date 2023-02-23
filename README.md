@@ -1,12 +1,12 @@
-<h3 align="left">Hello Normies 👋</h3>
+![My Github Cover-Gajendra](https://user-images.githubusercontent.com/105481951/220854129-a924409c-2659-413e-92fe-1291314dc293.png)
 
-![MY Github Banner](https://user-images.githubusercontent.com/105481951/212617461-abe52764-ef23-4838-acaf-388d76756244.png)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendrarao007&label=Profile%20views&color=8b0990&style=flat" alt="gajendrarao007" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendrarao007&label=Profile%20views&color=FF0000&style=flat" alt="gajendrarao007" /> </p>
+- 🚀 Web Designer Freelancer
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **raogajendra27@gmail.com**
+- 📫 My Email **raogajendra27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
