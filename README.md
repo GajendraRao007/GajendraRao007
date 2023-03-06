@@ -4,8 +4,6 @@
 
 - 🚀 Web Designer Freelancer
 
-- 🌱 I’m currently learning **React**
-
 - 📫 My Email **raogajendra27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
