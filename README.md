@@ -1,4 +1,5 @@
-![My Github Cover-Gajendra](https://user-images.githubusercontent.com/105481951/220854129-a924409c-2659-413e-92fe-1291314dc293.png)
+![My Github Cover Black-Gajendra](https://user-images.githubusercontent.com/105481951/224526748-0522372b-f41c-4357-9884-1a6fc1bdbc16.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendrarao007&label=Profile%20views&color=8b0990&style=flat" alt="gajendrarao007" /> </p>
 
